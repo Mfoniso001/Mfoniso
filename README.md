@@ -15,14 +15,18 @@ what I am working on
 - Exploring **e-commerce platforms** and real-world frontend challenges
 - Advocating for **mental health through technology
 
-Tech Stack & Tools**
+Let’s Connect
 
-```html
-<code><img height="20" src="https://cdn.simpleicons.org/html5" alt="HTML5" /> HTML5</code>
-<code><img height="20" src="https://cdn.simpleicons.org/css3" alt="CSS3" /> CSS3</code>
-<code><img height="20" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" /> JavaScript</code>
-<code><img height="20" src="https://cdn.simpleicons.org/react" alt="React" /> React</code>
-<code><img height="20" src="https://cdn.simpleicons.org/tailwindcss" alt="TailwindCSS" /> TailwindCSS</code>
-<code><img height="20" src="https://cdn.simpleicons.org/git" alt="Git" /> Git</code>
-<code><img height="20" src="https://cdn.simpleicons.org/github" alt="GitHub" /> GitHub</code>
-<code><img height="20" src="https://cdn.simpleicons.org/figma" alt="Figma" /> Figma</code>
+I’m always open to connect, collaborate, or chat about tech & mental health!
+
+LinkedIn: https://www.linkedin.com/in/mfoniso-george-537807295
+
+Twitter: @techgirlee
+Email: constancecelestine16@gmail.com
+
+Fun Facts
+A psychiatric nurse, now passionate about tech that heals minds.
+
+Believer in self-learning, research, and lifting others.
+
+Love debugging as much as building — it’s all part of the journey!
