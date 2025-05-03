@@ -22,9 +22,11 @@ I’m always open to connect, collaborate, or chat about tech & mental health!
 LinkedIn: https://www.linkedin.com/in/mfoniso-george-537807295
 
 Twitter: @techgirlee
+
 Email: constancecelestine16@gmail.com
 
 Fun Facts
+
 A psychiatric nurse, now passionate about tech that heals minds.
 
 Believer in self-learning, research, and lifting others.
