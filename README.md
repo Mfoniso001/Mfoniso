@@ -14,3 +14,15 @@ what I am working on
 - Developing **progressive web apps (PWAs)** with performance and accessibility in mind
 - Exploring **e-commerce platforms** and real-world frontend challenges
 - Advocating for **mental health through technology
+
+Tech Stack & Tools**
+
+```html
+<code><img height="20" src="https://cdn.simpleicons.org/html5" alt="HTML5" /> HTML5</code>
+<code><img height="20" src="https://cdn.simpleicons.org/css3" alt="CSS3" /> CSS3</code>
+<code><img height="20" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" /> JavaScript</code>
+<code><img height="20" src="https://cdn.simpleicons.org/react" alt="React" /> React</code>
+<code><img height="20" src="https://cdn.simpleicons.org/tailwindcss" alt="TailwindCSS" /> TailwindCSS</code>
+<code><img height="20" src="https://cdn.simpleicons.org/git" alt="Git" /> Git</code>
+<code><img height="20" src="https://cdn.simpleicons.org/github" alt="GitHub" /> GitHub</code>
+<code><img height="20" src="https://cdn.simpleicons.org/figma" alt="Figma" /> Figma</code>
